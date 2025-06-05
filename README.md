@@ -12,8 +12,7 @@ This project is a collection of Selenium automation test scripts for practicing 
 **Automated Features are**
 | Feature      | Description                        |
 |--------------|------------------------------------|
-| Alert        | Handling native browser alerts 
-                using Selenium switchTo().alert()   |
+| Alert        | Handling native browser alerts     |
 | Checkbox     | Selecting and verifying checkboxes |
 | Button       | Validating button functionalities  |
 | File         | Upload/download automation         |
