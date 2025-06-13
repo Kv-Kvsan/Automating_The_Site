@@ -1,4 +1,4 @@
-package Open_Myntra;
+package Open_MakemyTrip;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.JavascriptExecutor;

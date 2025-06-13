@@ -1,4 +1,4 @@
-package Open_Myntra;
+package Open_MakemyTrip;
 
 import org.openqa.selenium.By;
 import org.openqa.selenium.WebElement;
@@ -55,7 +55,7 @@ public class Myntra_OneWay_Module {
 
 		Thread.sleep(3000);
 
-		//		//Choosing To_Date Click
+		//Choosing To_Date Click
 		WebElement Choosing_To_Date=driver.findElement(By.xpath("//*[@id='top-banner']/div[2]/div/div/div/div/div/div[2]/div[1]/div[2]/label/following::div[135]"));
 		Choosing_To_Date.click();
 
@@ -86,7 +86,7 @@ public class Myntra_OneWay_Module {
 		WebElement Travelclass=driver.findElement(By.xpath("//*[@id='top-banner']/div[2]/div/div/div/div/div/div[2]/div[1]/div[5]/div[2]/div[1]/ul[2]/li[2]"));
 		Travelclass.click();
 		Thread.sleep(3000);
-		
+
 		//Apply
 		WebElement Apply=driver.findElement(By.xpath("//*[@id='top-banner']/div[2]/div/div/div/div/div/div[2]/div[1]/div[5]/div[2]/div[2]/button"));
 		Apply.click();
