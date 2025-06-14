@@ -7,7 +7,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Myntra_Homepage {
+public class MakemyTrip_Homepage {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub

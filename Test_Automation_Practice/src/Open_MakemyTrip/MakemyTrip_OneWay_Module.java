@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Myntra_OneWay_Module {
+public class MakemyTrip_OneWay_Module {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub

@@ -8,7 +8,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Myntra_MulticityModule_Automation {
+public class MakemyTrip_MulticityModule_Automation {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub

@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Myntra_Select_Special_Fares {
+public class MakemyTrip_Select_Special_Fares {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub

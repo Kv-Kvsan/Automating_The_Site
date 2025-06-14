@@ -6,7 +6,7 @@ import org.openqa.selenium.chrome.ChromeDriver;
 
 import io.github.bonigarcia.wdm.WebDriverManager;
 
-public class Myntra_Flights_Types_of_Trips {
+public class MakemyTrip_Flights_Types_of_Trips {
 
 	public static void main(String[] args) throws InterruptedException {
 		// TODO Auto-generated method stub
